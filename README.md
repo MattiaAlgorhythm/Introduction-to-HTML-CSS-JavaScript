@@ -25,8 +25,10 @@ The 3 recommendations are different from the default ones given in the sample co
 
 Task 7:
 New recommendations get added to the existing list of recommendations. – 1 point
+
 Task 8:
 The Home icon appears as specified. – 1 point
+
 Task 9:
 Upon submitting a recommendation, a pop-up message with confirmation dialogue appears. – 2 points
 
